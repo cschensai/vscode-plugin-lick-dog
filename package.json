@@ -2,7 +2,7 @@
 	"name": "lick-dog",
 	"displayName": "lick-dog",
 	"description": "舔狗扎心语录",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"publisher": "chensai-lick-dog",
 	"engines": {
 		"vscode": "^1.51.0"
